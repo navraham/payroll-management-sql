@@ -1,0 +1,5 @@
+INSERT INTO EmployeeDeductionSummary VALUES
+(1,1,1200,1700),
+(2,1,1440,1990),
+(3,1,1320,1840);
+
